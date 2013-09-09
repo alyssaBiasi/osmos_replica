@@ -20,7 +20,7 @@ You will lose if a larger blob catches you or it is no longer possible for you
 to become the biggest.
 
 The second level contains a *smart* blob. A smaller smart blob will run away 
-from you. A larger on will chase you.
+from you. A larger one will chase you.
 
 Controls
 --------
